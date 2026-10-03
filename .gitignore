@@ -10,4 +10,6 @@ __pycache__/
 .config/
 .cache/
 
+.DS_Store
+
 workspace/UPSET
